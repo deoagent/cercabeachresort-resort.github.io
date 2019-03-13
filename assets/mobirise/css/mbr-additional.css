@@ -1,43 +1,29 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 
 
-#dropdown-menu-n .hide-buttons [data-button] {
-  display: none !important;
+#menu-w .navbar-toggler {
+  color: #000;
 }
-#dropdown-menu-n .navbar-brand a {
+#menu-w .navbar-brand {
   font-size: 24px;
   font-family: 'Playfair Display', sans-serif;
 }
-#dropdown-menu-n .nav .link,
-#dropdown-menu-n .dropdown-item {
-  font-size: 1em;
-  color: #000000;
+#menu-w .nav-link {
+  font-size: 24px;
 }
-#dropdown-menu-n .navbar,
-#dropdown-menu-n .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-n .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-n .dropdown-menu a:hover,
-#dropdown-menu-n .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-n .navbar-toggler {
-  color: #000000;
-}
-#header1-1 H1 {
+#slider-q H2 {
   color: #fff8e0;
-  text-align: left;
-  font-size: 80px;
-  font-family: 'Norican', sans-serif;
+  font-size: 72px;
+  text-align: center;
 }
-#header1-1 B {
-  color: #0275d8;
+#slider-q P {
+  font-size: 36px;
+  font-family: 'Playfair Display', sans-serif;
+  color: #f2f2f2;
 }
-#header1-1 P {
-  color: #060b1b;
-  font-size: 30px;
-  text-align: right;
+#slider-q I {
+  color: #f8f8f6;
+  font-size: 72px;
 }
 #features1-i H4 {
   font-size: 22px;
@@ -50,6 +36,26 @@
 }
 #msg-box4-p .mbr-section-title {
   font-size: 60px;
+}
+#content5-15 DIV {
+  font-size: 32px;
+}
+#content5-16 .mbr-section-title {
+  text-align: right;
+}
+#content5-16 P {
+  text-align: right;
+}
+#content5-16 DIV {
+  text-align: right;
+  font-size: 32px;
+}
+#content5-18 DIV {
+  font-size: 32px;
+}
+#msg-box4-1b .lead DIV {
+  text-align: left;
+  font-size: 21px;
 }
 #testimonials1-7 .card-footer > div {
   color: #000000;
