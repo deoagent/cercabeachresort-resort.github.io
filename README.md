@@ -1,2 +1,2 @@
-# beach-resort1.github.io
+# cercabeach-resort.github.io
 commercial website for Cerca Parola Beach resort
